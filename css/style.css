@@ -1,0 +1,15 @@
+body {
+    background-color: #efeee7;
+    font: "Georgia","Times New Roman","Times","serif";
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #333333;
+    width: 1024px;
+    margin: 0 auto;
+    color: #eee;
+    font-size: 24px;
+}
